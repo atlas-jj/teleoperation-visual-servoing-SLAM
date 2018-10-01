@@ -1,5 +1,17 @@
 # teleoperation-visual-servoing-SLAM
 
+#### TODO list
+
+- [x] Orb_SLAM + CARV (repository in gitlab)
+- [x] wam_ orbSLAM_routine
+- [x]  wam_orbSLAM_Solver
+- [x]  wam_pbvs
+- [ ] wam_ibvs_Uncalibrated
+- [ ] GUI
+    - [ ] Task Specification (coarse)
+    - [ ] Task Specification (fine)
+- [ ] Experiments
+- [ ] Paper Writing
 
 #### Robot Fine Manipulation for Tele-operation under Time-delay Network Conditions
 
@@ -17,15 +29,4 @@ teleoperation system that target must be in camera’s field of view.teleoperati
 ![system](https://github.com/atlas-jj/teleoperation-visual-servoing-SLAM/blob/master/media/Design_Overview.jpg?raw=true)
                 
 				
-#### TODO list
 
-- [x] Orb_SLAM + CARV (repository in gitlab)
-- [x] wam_ orbSLAM_routine
-- [x]  wam_orbSLAM_Solver
-- [x]  wam_pbvs
-- [ ] wam_ibvs_Uncalibrated
-- [ ] GUI
-    - [ ] Task Specification (coarse)
-    - [ ] Task Specification (fine)
-- [ ] Experiments
-- [ ] Paper Writing
