@@ -27,3 +27,5 @@ teleoperation system that target must be in camera’s field of view.teleoperati
 - [ ] GUI
     - [ ] Task Specification (coarse)
     - [ ] Task Specification (fine)
+- [ ] Experiments
+- [ ] Paper Writing
